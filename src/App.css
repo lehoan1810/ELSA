@@ -30,6 +30,9 @@ img {
 a {
 	text-decoration: none;
 }
+a:hover {
+	color: #0056b3;
+}
 button {
 	cursor: pointer;
 }
@@ -49,5 +52,5 @@ body {
 	margin: 0 auto;
 }
 .container {
-	max-width: 1440px;
+	width: 1440px;
 }

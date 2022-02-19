@@ -98,3 +98,7 @@
 	border: none;
 	font-weight: 500;
 }
+.btn-handle a:hover {
+	opacity: 0.8;
+	background-image: linear-gradient(180deg, #29f4ff 26.11%, #5257ff 151.97%);
+}
